@@ -11,6 +11,7 @@ This page contains links to various HUML-related resources such as parser implem
 
 | Language    | Library                                                                      |
 | ----------- | ---------------------------------------------------------------------------- |
+| Dotnet      | [@primeBeri/huml-dotnet](https://github.com/primeBeri/huml-dotnet)           |
 | Elixir      | [@rahultumpala/huml-ex](https://github.com/rahultumpala/huml-ex)             |
 | Go          | [@huml-lang/go-huml](https://github.com/huml-lang/go-huml)                   |
 | Java        | [@CretanBull/huml4j](https://github.com/CretanBull/huml4j)                   |
@@ -43,6 +44,6 @@ This page contains links to various HUML-related resources such as parser implem
 | [koanf](https://github.com/knadh/koanf) | Configuration management library for Go with HUML support |
 
 ## Tools
-| Name                                | Description                                              |
-| ----------------------------------- | -------------------------------------------------------- |
-| [hq](https://github.com/rhnvrm/hq)  | A jq/yq-like command-line processor for HUML             |
+| Name                               | Description                                  |
+| ---------------------------------- | -------------------------------------------- |
+| [hq](https://github.com/rhnvrm/hq) | A jq/yq-like command-line processor for HUML |
